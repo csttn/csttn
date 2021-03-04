@@ -21,7 +21,7 @@
 * * [Repositório](https://github.com/csttn/blog-gatsby) 
 * [Ecommerce](https://github.com/csttn/ecommerce-React) 
 * * [Repositório](https://github.com/csttn/ecommerce-React) 
-* [App React Native](https://github.com/csttn/ecommerce-React) 
+* [App React Native](https://github.com/csttn/peDeMeiaApp) 
 * * [Repositório](https://github.com/csttn/peDeMeiaApp) 
 
 
