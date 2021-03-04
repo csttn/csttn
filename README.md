@@ -19,6 +19,6 @@
 * * [Repositório](https://github.com/csttn/Expensify) 
 * [Blog Gatsby](https://gatsby-blog-csttn.netlify.app/) 
 * * [Repositório](https://github.com/csttn/blog-gatsby) 
-* [Ecommerce](https://gatsby-blog-csttn.netlify.app/) 
+* [Ecommerce](https://github.com/csttn/ecommerce-React) 
 * * [Repositório](https://github.com/csttn/ecommerce-React) 
 
