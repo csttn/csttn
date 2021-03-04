@@ -1,4 +1,5 @@
-[![Faça ou não faça. Tentativa não há.](http://img.youtube.com/vi/LKnlv97Uzn8/0.jpg)](http://www.youtube.com/watch?v=LKnlv97Uzn8 "https://github.com/csttn/csttn/blob/main/yoda-star-wars.jpg")
+
+![yoda](https://user-images.githubusercontent.com/43582741/110004045-c3dffc00-7cf5-11eb-9482-cacfb2786a09.gif)
 
 # Cleyton De Jesus Santana
 
