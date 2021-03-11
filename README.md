@@ -19,7 +19,7 @@
 * * [Repositório](https://github.com/csttn/Expensify) 
 * [Blog Gatsby](https://gatsby-blog-csttn.netlify.app/)
 * * [Repositório](https://github.com/csttn/blog-gatsby) 
-* [Ecommerce](https://github.com/csttn/ecommerce-React) 
+* [Ecommerce](https://react-ecommerce-csttn.herokuapp.com/) 
 * * [Repositório](https://github.com/csttn/ecommerce-React) 
 * [App React Native](https://github.com/csttn/peDeMeiaApp) 
 * * [Repositório](https://github.com/csttn/peDeMeiaApp) 
