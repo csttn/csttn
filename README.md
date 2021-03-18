@@ -1,5 +1,7 @@
 
-![yoda](https://user-images.githubusercontent.com/43582741/110004045-c3dffc00-7cf5-11eb-9482-cacfb2786a09.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/43582741/110004045-c3dffc00-7cf5-11eb-9482-cacfb2786a09.gif">
+</p>
 
 # Cleyton De Jesus Santana
 
@@ -9,7 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=csttn&theme=dark&layout=compact)](https://github.com/csttn/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=csttn&theme=midnight-purple&show_icons=true)](https://github.com/csttn/github-readme-stats)
-
 
 
 
