@@ -26,7 +26,7 @@
 * * [Repositório](https://github.com/csttn/ecommerce-React) 
 * [App React Native](https://github.com/csttn/peDeMeiaApp) 
 * * [Repositório](https://github.com/csttn/peDeMeiaApp)
-* [APi NodeJS - Docker, Express e princípios SOLID]
+* [APi NodeJS - Docker, Express e princípios SOLID](https://github.com/csttn/rentalx-api-nodejs)
 * * [Repositório](https://github.com/csttn/rentalx-api-nodejs)
 
 
