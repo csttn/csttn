@@ -16,7 +16,7 @@
 
 
 
-## Portifólios:
+## Portfólios:
 
 * [Expensify](https://expensify-csttn.herokuapp.com/) 
 * * [Repositório](https://github.com/csttn/Expensify) 
