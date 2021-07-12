@@ -12,21 +12,4 @@
 [![Rocketseat Badge](https://img.shields.io/badge/-csttn-black?style=flat-square&labelColor=6633cc&label=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/cleyton-santana-1590699806)](https://app.rocketseat.com.br/me/cleyton-santana-1590699806) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=csttn&theme=dark&layout=compact)](https://github.com/csttn/github-readme-stats)
-[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=csttn&theme=midnight-purple&show_icons=true)](https://github.com/csttn/github-readme-stats)
-
-
-
-## Portfólios:
-
-* [Expensify](https://expensify-csttn.herokuapp.com/) 
-* * [Repositório](https://github.com/csttn/Expensify) 
-* [Blog Gatsby](https://gatsby-blog-csttn.netlify.app/)
-* * [Repositório](https://github.com/csttn/blog-gatsby) 
-* [Ecommerce](https://react-ecommerce-csttn.herokuapp.com/) 
-* * [Repositório](https://github.com/csttn/ecommerce-React) 
-* [App React Native](https://github.com/csttn/peDeMeiaApp) 
-* * [Repositório](https://github.com/csttn/peDeMeiaApp)
-* [APi NodeJS - Docker, Express e princípios SOLID](https://github.com/csttn/rentalx-api-nodejs)
-* * [Repositório](https://github.com/csttn/rentalx-api-nodejs)
-
-
+[![Cleyton's github stats](https://github-readme-stats.vercel.app/api?username=csttn&theme=midnight-purple&show_icons=true)](https://github.com/csttn/github-readme-stats)
