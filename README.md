@@ -47,4 +47,4 @@ style="vertical-align:top; margin:4px">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=csttn&hide=php&theme=tokyonight" />
 </a>
 </div>
-[![Cleyton's github stats](https://github-readme-stats.vercel.app/api?username=csttn&theme=midnight-purple&show_icons=true)](https://github.com/csttn/github-readme-stats)
+
